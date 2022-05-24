@@ -9,7 +9,7 @@ DB = {
         "password" : "Sunjung0821!",
         "host" : "localhost",
         "port" : 3306,
-        "database" : "my_test_DB"
+        "database" : "test"
     }
 
 db_url = f"mysql+pymysql://{DB['user']}:{DB['password']}@{DB['host']}:{DB['port']}/{DB['database']}?charset=utf8"

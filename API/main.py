@@ -19,8 +19,11 @@ async def first_get():
     example = session.query(Test).all()
     return example
 
-@app.get("/post")
+@app.post("/post")
 async def first_post(item:Item):
+    addMemo = Test(name=item.id, password=item.number)
+    session.add(addMemo)
+    session.commit()
     return item
 
 

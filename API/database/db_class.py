@@ -4,7 +4,7 @@ from sqlalchemy.orm import declarative_base
 Base = declarative_base()
 
 class Test(Base):
-    __tablename__ = 'test'
+    __tablename__ = 'my_info'
     id = Column(BIGINT, nullable=False, autoincrement=True, primary_key=True)
-    name = Column(TEXT, nullable=False)
+    passwd = Column(TEXT, nullable=False)
 
