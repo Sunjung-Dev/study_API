@@ -6,7 +6,7 @@ import json
 
 DB = {
         "user" : "root",
-        "password" : "Sunjung0821!",
+        "password" : "!",
         "host" : "localhost",
         "port" : 3306,
         "database" : "my_test_DB"
