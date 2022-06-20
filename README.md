@@ -12,3 +12,5 @@ A_to_Z about API for PYTHON
 👩🏼‍💻 logout할 때는 연결된 session 자동으로 불러와짐.
 
 👩🏼‍💻 session에 대해서 먼저 공부해 
+
+👩🏼‍💻 아직 공부중이라 올릴게 없네 .. 
