@@ -16,3 +16,5 @@ A_to_Z about API for PYTHON
 👩🏼‍💻 아직 공부중이라 올릴게 없네 .. 
 
 👩🏼‍💻 이제 좀 알겠음! 정리해서 올려야지 ... 
+
+👩🏼‍💻 네이버 구현 -> frontend to server 데이터 전송할 때 왜 내가 설정한 url로 안가는지 확인하기 
