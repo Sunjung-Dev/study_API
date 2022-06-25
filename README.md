@@ -18,3 +18,5 @@ A_to_Z about API for PYTHON
 👩🏼‍💻 이제 좀 알겠음! 정리해서 올려야지 ... 
 
 👩🏼‍💻 네이버 구현 -> frontend to server 데이터 전송할 때 왜 내가 설정한 url로 안가는지 확인하기 
+
+👩🏼‍💻 구글 새로운 원클릭 로그인 구현중 
